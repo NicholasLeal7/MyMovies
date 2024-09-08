@@ -8,4 +8,6 @@ and make the search bar functional. Soon, I intend to improve the functionalitie
 
 # Images
 
+![image](https://github.com/user-attachments/assets/093e560c-d070-471f-87f9-dc6d2373385b)
 
+![image](https://github.com/user-attachments/assets/0fe0b7ec-c38b-41ba-99e5-a0c9c54a6fbb)
