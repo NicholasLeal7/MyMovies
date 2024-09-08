@@ -30,7 +30,7 @@ export default function MovieCard(props: Props) {
                         </p>
                     }
                     <button className="btn-default">
-                        Ver mais
+                        See more
                     </button>
                 </div>
             </div>

@@ -24,7 +24,7 @@ export default function MovieList(props: Props) {
             url: 'https://api.themoviedb.org/3/discover/movie',
             params: {
                 api_key: '4828573c4ac2f7b5f600c0e321b393c1',
-                language: 'pt-BR'
+                language: 'en-US'
             }
         }).then(response => {
             console.log(response.data.results);
